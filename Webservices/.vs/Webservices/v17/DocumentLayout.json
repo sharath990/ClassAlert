@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dev\\MES SMS\\Webservices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C598FD0-79A7-42B3-ABD2-8874D0AC453A}|Webservices.csproj|d:\\dev\\mes sms\\webservices\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C598FD0-79A7-42B3-ABD2-8874D0AC453A}|Webservices.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C598FD0-79A7-42B3-ABD2-8874D0AC453A}|Webservices.csproj|d:\\dev\\mes sms\\webservices\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C598FD0-79A7-42B3-ABD2-8874D0AC453A}|Webservices.csproj|solutionrelative:services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C598FD0-79A7-42B3-ABD2-8874D0AC453A}|Webservices.csproj|d:\\dev\\mes sms\\webservices\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C598FD0-79A7-42B3-ABD2-8874D0AC453A}|Webservices.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C598FD0-79A7-42B3-ABD2-8874D0AC453A}|Webservices.csproj|d:\\dev\\mes sms\\webservices\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C598FD0-79A7-42B3-ABD2-8874D0AC453A}|Webservices.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C598FD0-79A7-42B3-ABD2-8874D0AC453A}|Webservices.csproj|d:\\dev\\mes sms\\webservices\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3C598FD0-79A7-42B3-ABD2-8874D0AC453A}|Webservices.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C598FD0-79A7-42B3-ABD2-8874D0AC453A}|Webservices.csproj|d:\\dev\\mes sms\\webservices\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3C598FD0-79A7-42B3-ABD2-8874D0AC453A}|Webservices.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C598FD0-79A7-42B3-ABD2-8874D0AC453A}|Webservices.csproj|d:\\dev\\mes sms\\webservices\\dto\\messagerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C598FD0-79A7-42B3-ABD2-8874D0AC453A}|Webservices.csproj|solutionrelative:dto\\messagerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C598FD0-79A7-42B3-ABD2-8874D0AC453A}|Webservices.csproj|d:\\dev\\mes sms\\webservices\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C598FD0-79A7-42B3-ABD2-8874D0AC453A}|Webservices.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C598FD0-79A7-42B3-ABD2-8874D0AC453A}|Webservices.csproj|d:\\dev\\mes sms\\webservices\\controllers\\messagetemplatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C598FD0-79A7-42B3-ABD2-8874D0AC453A}|Webservices.csproj|solutionrelative:controllers\\messagetemplatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C598FD0-79A7-42B3-ABD2-8874D0AC453A}|Webservices.csproj|d:\\dev\\mes sms\\webservices\\controllers\\academiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C598FD0-79A7-42B3-ABD2-8874D0AC453A}|Webservices.csproj|solutionrelative:controllers\\academiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C598FD0-79A7-42B3-ABD2-8874D0AC453A}|Webservices.csproj|d:\\dev\\mes sms\\webservices\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C598FD0-79A7-42B3-ABD2-8874D0AC453A}|Webservices.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C598FD0-79A7-42B3-ABD2-8874D0AC453A}|Webservices.csproj|d:\\dev\\mes sms\\webservices\\models\\streams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C598FD0-79A7-42B3-ABD2-8874D0AC453A}|Webservices.csproj|solutionrelative:models\\streams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C598FD0-79A7-42B3-ABD2-8874D0AC453A}|Webservices.csproj|d:\\dev\\mes sms\\webservices\\models\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C598FD0-79A7-42B3-ABD2-8874D0AC453A}|Webservices.csproj|solutionrelative:models\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C598FD0-79A7-42B3-ABD2-8874D0AC453A}|Webservices.csproj|d:\\dev\\mes sms\\webservices\\dto\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C598FD0-79A7-42B3-ABD2-8874D0AC453A}|Webservices.csproj|solutionrelative:dto\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C598FD0-79A7-42B3-ABD2-8874D0AC453A}|Webservices.csproj|d:\\dev\\mes sms\\webservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C598FD0-79A7-42B3-ABD2-8874D0AC453A}|Webservices.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C598FD0-79A7-42B3-ABD2-8874D0AC453A}|Webservices.csproj|d:\\dev\\mes sms\\webservices\\models\\messagehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C598FD0-79A7-42B3-ABD2-8874D0AC453A}|Webservices.csproj|solutionrelative:models\\messagehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C598FD0-79A7-42B3-ABD2-8874D0AC453A}|Webservices.csproj|d:\\dev\\mes sms\\webservices\\models\\messagetemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C598FD0-79A7-42B3-ABD2-8874D0AC453A}|Webservices.csproj|solutionrelative:models\\messagetemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C598FD0-79A7-42B3-ABD2-8874D0AC453A}|Webservices.csproj|d:\\dev\\mes sms\\webservices\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C598FD0-79A7-42B3-ABD2-8874D0AC453A}|Webservices.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C598FD0-79A7-42B3-ABD2-8874D0AC453A}|Webservices.csproj|d:\\dev\\mes sms\\webservices\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C598FD0-79A7-42B3-ABD2-8874D0AC453A}|Webservices.csproj|solutionrelative:models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C598FD0-79A7-42B3-ABD2-8874D0AC453A}|Webservices.csproj|d:\\dev\\mes sms\\webservices\\models\\batch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C598FD0-79A7-42B3-ABD2-8874D0AC453A}|Webservices.csproj|solutionrelative:models\\batch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Dev\\MES SMS\\Webservices\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Dev\\MES SMS\\Webservices\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T15:28:45.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Dev\\MES SMS\\Webservices\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Dev\\MES SMS\\Webservices\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAwAAABAMzMzM5M6wAMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T15:04:05.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AcademicController.cs",
+              "DocumentMoniker": "D:\\Dev\\MES SMS\\Webservices\\Controllers\\AcademicController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AcademicController.cs",
+              "ToolTip": "D:\\Dev\\MES SMS\\Webservices\\Controllers\\AcademicController.cs",
+              "RelativeToolTip": "Controllers\\AcademicController.cs",
+              "ViewState": "AQIAACkAAADwMzMzM5M6wEcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T15:53:19.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MessageRequestDTO.cs",
+              "DocumentMoniker": "D:\\Dev\\MES SMS\\Webservices\\DTO\\MessageRequestDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\MessageRequestDTO.cs",
+              "ToolTip": "D:\\Dev\\MES SMS\\Webservices\\DTO\\MessageRequestDTO.cs",
+              "RelativeToolTip": "DTO\\MessageRequestDTO.cs",
+              "ViewState": "AQIAAAgAAADQzMzMzEwiwAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T15:37:12.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Dev\\MES SMS\\Webservices\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "D:\\Dev\\MES SMS\\Webservices\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AQIAAAoAAADgmpmZmVkgwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:50:50.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Dev\\MES SMS\\Webservices\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "D:\\Dev\\MES SMS\\Webservices\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T15:40:07.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Dev\\MES SMS\\Webservices\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Dev\\MES SMS\\Webservices\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAYAAAAYzczMzIwjwAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-16T15:26:51.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Dev\\MES SMS\\Webservices\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "Services\\IUserService.cs",
+              "ToolTip": "D:\\Dev\\MES SMS\\Webservices\\Services\\IUserService.cs",
+              "RelativeToolTip": "Services\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T15:39:04.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "D:\\Dev\\MES SMS\\Webservices\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
+              "ToolTip": "D:\\Dev\\MES SMS\\Webservices\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T15:44:52.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MessageTemplateController.cs",
+              "DocumentMoniker": "D:\\Dev\\MES SMS\\Webservices\\Controllers\\MessageTemplateController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MessageTemplateController.cs",
+              "ToolTip": "D:\\Dev\\MES SMS\\Webservices\\Controllers\\MessageTemplateController.cs",
+              "RelativeToolTip": "Controllers\\MessageTemplateController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAAACoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T16:04:18.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Dev\\MES SMS\\Webservices\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\Dev\\MES SMS\\Webservices\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAIAAAAAAAAAAMAtwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-16T16:16:35.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Streams.cs",
+              "DocumentMoniker": "D:\\Dev\\MES SMS\\Webservices\\Models\\Streams.cs",
+              "RelativeDocumentMoniker": "Models\\Streams.cs",
+              "ToolTip": "D:\\Dev\\MES SMS\\Webservices\\Models\\Streams.cs",
+              "RelativeToolTip": "Models\\Streams.cs",
+              "ViewState": "AQIAAAAAAADuZmZmZuYcwAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:56:36.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Section.cs",
+              "DocumentMoniker": "D:\\Dev\\MES SMS\\Webservices\\Models\\Section.cs",
+              "RelativeDocumentMoniker": "Models\\Section.cs",
+              "ToolTip": "D:\\Dev\\MES SMS\\Webservices\\Models\\Section.cs",
+              "RelativeToolTip": "Models\\Section.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:57:24.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dev\\MES SMS\\Webservices\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Dev\\MES SMS\\Webservices\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T15:26:20.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthDTO.cs",
+              "DocumentMoniker": "D:\\Dev\\MES SMS\\Webservices\\DTO\\AuthDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\AuthDTO.cs",
+              "ToolTip": "D:\\Dev\\MES SMS\\Webservices\\DTO\\AuthDTO.cs",
+              "RelativeToolTip": "DTO\\AuthDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T15:15:39.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MessageTemplate.cs",
+              "DocumentMoniker": "D:\\Dev\\MES SMS\\Webservices\\Models\\MessageTemplate.cs",
+              "RelativeDocumentMoniker": "Models\\MessageTemplate.cs",
+              "ToolTip": "D:\\Dev\\MES SMS\\Webservices\\Models\\MessageTemplate.cs",
+              "RelativeToolTip": "Models\\MessageTemplate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T15:02:17.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Dev\\MES SMS\\Webservices\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\Dev\\MES SMS\\Webservices\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:59:30.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MessageHistory.cs",
+              "DocumentMoniker": "D:\\Dev\\MES SMS\\Webservices\\Models\\MessageHistory.cs",
+              "RelativeDocumentMoniker": "Models\\MessageHistory.cs",
+              "ToolTip": "D:\\Dev\\MES SMS\\Webservices\\Models\\MessageHistory.cs",
+              "RelativeToolTip": "Models\\MessageHistory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:58:18.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Class.cs",
+              "DocumentMoniker": "D:\\Dev\\MES SMS\\Webservices\\Models\\Class.cs",
+              "RelativeDocumentMoniker": "Models\\Class.cs",
+              "ToolTip": "D:\\Dev\\MES SMS\\Webservices\\Models\\Class.cs",
+              "RelativeToolTip": "Models\\Class.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:55:53.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Batch.cs",
+              "DocumentMoniker": "D:\\Dev\\MES SMS\\Webservices\\Models\\Batch.cs",
+              "RelativeDocumentMoniker": "Models\\Batch.cs",
+              "ToolTip": "D:\\Dev\\MES SMS\\Webservices\\Models\\Batch.cs",
+              "RelativeToolTip": "Models\\Batch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:52:22.606Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
